@@ -1,0 +1,48 @@
+{
+  "Challenges": null,
+  "Lists": null,
+  "Progress": null,
+  "TechProfile": {
+    "email": "justmeroy76@gmail.com",
+    "locale": "en-us",
+    "country": "GB",
+    "contactPointTopicSetting": "OptInExplicit",
+    "gsi": null,
+    "isAvatarTakenDown": null,
+    "source": "docs",
+    "acceptedPrivacyNotice": null,
+    "authenticationModes": [
+      {
+        "id": "0003400112F569A1",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "justmeroy76@gmail.com",
+        "oid": "00000000-0000-0000-7220-8bd8ab489e5c",
+        "dateAcceptedPrivacyNotice": "2021-08-22T10:30:10.9320788+00:00",
+        "dateAdded": "2021-08-22T10:30:10.932079+00:00"
+      }
+    ],
+    "interests": null,
+    "groups": null,
+    "userId": "f7780113-34ac-4845-b58f-456e313a17cb",
+    "userName": "RoyLiska-5656",
+    "displayName": "Roy Liska",
+    "avatarUrl": null,
+    "avatarThumbnailUrl": null,
+    "isPrivate": true,
+    "isMicrosoftUser": false,
+    "isMvp": false,
+    "qnaUserId": "9156742",
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 1,
+    "createdOn": "8/22/2021 10:30:10 AM"
+  },
+  "XP": null,
+  "Certifications": null,
+  "Ratings": null,
+  "NextSteps": null,
+  "Q&A": [],
+  "Assessments": null
+}
